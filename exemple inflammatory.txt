@@ -1,0 +1,4 @@
+O=C(O)c1ccc(-c2cc3cccnc3c(-c3ccc4nonc4c3)n2)cc1 CHEMBL02314	
+COc1ccc([C@]2(C#N)CC[C@@H](C(=O)O)CC2)cc1OC1CCCC1 CHEMBL2357
+COc1cc2nc(C)nc(-c3cc(O)cc(O)c3)c2cc1OC CHEMBL9624
+O=C(O)c1ccc(-c2cc3cccnc3c(-c3cccc(Cl)c3)n2)cc1 CHEMBL08756	
